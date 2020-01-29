@@ -3,5 +3,5 @@ TARGET BELAJAR BAHASA PEMROGRAMAN
 - Mengetahui dasar css
 - Mengetahui belajar javascript 
 - Mengetahui pembuatan database
-- Sering kolaborasi banyak expert
 - Mengetahui bahasa PHP
+- Membuat struktur database simple
