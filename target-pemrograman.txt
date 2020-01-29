@@ -1,0 +1,5 @@
+TARGET BELAJAR BAHASA PEMROGRAMAN
+- Mengetahui dasar html
+- Mengetahui dasar css
+- Mengetahui belajar javascript 
+- Mengetahui pembuatan database
